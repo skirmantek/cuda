@@ -1,0 +1,24 @@
+@import '_variables';
+//@import '_bootstrap';
+@import '_navbar';
+@import '_fonts';
+@import '_mainpage';
+@import '_footer';
+
+body{
+    margin:0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.sprite{
+    margin:0px;
+    padding:0px;
+    height: 0px;
+    svg{
+        height:0px;
+    }
+}
+
+article{
+padding-top:151px;
+}
