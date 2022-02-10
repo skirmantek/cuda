@@ -24,7 +24,7 @@
     "grunt-contrib-compass": "^1.1.1",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-svg-sprite": "^1.5.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "sass": "^1.23.0-module.beta.1",
     "sass-loader": "^8.0.0",
     "style-loader": "^1.0.0",
