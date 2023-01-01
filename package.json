@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/LVOTC/admin_panel_ui#readme",
   "devDependencies": {
-    "css-loader": "^3.2.0",
+    "css-loader": "^6.7.3",
     "grunt": "^1.0.4",
     "grunt-assemble": "^0.6.3",
     "grunt-contrib-compass": "^1.1.1",
@@ -26,10 +26,10 @@
     "grunt-svg-sprite": "^1.5.0",
     "node-sass": "^4.12.0",
     "sass": "^1.23.0-module.beta.1",
-    "sass-loader": "^8.0.0",
-    "style-loader": "^1.0.0",
-    "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.8"
+    "sass-loader": "^13.2.0",
+    "style-loader": "^1.3.0",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "dependencies": {
     "bootstrap-scss": "^4.3.1"
